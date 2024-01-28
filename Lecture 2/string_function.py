@@ -21,7 +21,12 @@ print(str.find("Q"))
 
 str.count("am") #counts the occurrence of the sub-string
 str = 'i am  studying python from ApnaCollege'
-https://youtu.be/lIId8IDP6TU?t=1631
+print(str.count("from"))
+
+
+
+
+
 
 
 
